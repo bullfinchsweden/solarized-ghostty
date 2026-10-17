@@ -5,7 +5,7 @@ My own custom made Solarized (Dark) color scheme for Ghostty.
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
-* [Horizon for VS Code](https://horizontheme.netlify.app/)<br/>
+* [Solarized color palette]([https://horizontheme.netlify.app/](https://ethanschoonover.com/solarized/))<br/>
 
 <img src="Images/Solarized.jpg" width="768" height="320" /><br/>
 
